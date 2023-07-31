@@ -51,7 +51,7 @@ Developed a Machine Learning credit scoring system using clustering and regressi
 ## Languages 🌐
 
 - Spanish: Bilingual or native proficiency
-- English: basic professional competence
+- English: Complete professional competence
 
 
 
