@@ -34,7 +34,8 @@ Developed a Machine Learning credit scoring system using clustering and regressi
   <img src="https://drive.google.com/uc?export=view&id=1wLjqGXWKzhhfDAZcEhYQV9u4f1ZTuC7O" width="100" height="100">
   <img src="https://drive.google.com/uc?export=view&id=1zyxvWrXyAoaYn2_N2EPQtXpxFXsH9Ye2" width="100" height="100">
   <img src="https://drive.google.com/uc?export=view&id=1dswuIZ3xc5B5n7vwiqD9Q8n173lwN-kN" width="100" height="100">
-  <img src="https://drive.google.com/uc?export=view&id=1x5_ZJYX0pmOvqvHMCc9dP7zEZRsayXWr" width="100" height="100">
+  <img src="https://drive.google.com/file/d/1sln5jidjdeSF9EbOm7xZXj4JmGTtsQgt" width="100" height="100">
+  <img src="https://drive.google.com/file/d/1PFY2bbRZRgSiCDRaATprQiCjQdwlxOJb" width="100" height="100">
   <img src="https://drive.google.com/uc?export=view&id=1D6bBNO1sYLyXkmKGaaBQLQpnv7hlXsKg" width="100" height="100">
   <img src="https://drive.google.com/uc?export=view&id=1YzJaIyLZ0w9_DXCLLoYPjYigy0YJIJRd" width="100" height="100">
   <img src="https://drive.google.com/uc?export=view&id=174kg92cH-1aiyCA3p1bS-cAcztKs9ctA" width="100" height="100">
