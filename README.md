@@ -14,6 +14,10 @@ I am passionate about Data Science with some experience in successful Data Analy
 
 ## Work Experience 🚀
 
+### Database Analyst, Independent Consultant (Nov 2023 – Mar 2024) - Remote
+
+Creation, analysis, and documentation of databases for projects in which I participate as part of the consulting team.
+
 ### Data Engineer at MOX (Jun. 2023 - Jul. 2023) - Remote
 
 Developed a Machine Learning credit scoring system using clustering and regression algorithms to classify customers and determine credit ratings.
